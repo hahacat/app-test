@@ -1,0 +1,100 @@
+项目git
+https://github.com/Jasonwang911/boya/invitations
+【wifi】 bjghby12345678
+【服务器账号密码】
+192.168.1.200
+root  boya!QAZ2wsx
+
+【阿里云服务器】
+mysql   33086   root/by!QAZ2wsx
+
+ssh -p 22 root@182.92.153.163     Ghby2020@
+
+
+【老mes】
+182.92.153.163:8981
+本地老mes
+http://192.168.1.133:8881/login
+接口文档
+http://8.130.26.88:8972/
+
+
+/home/yapi/my-yapi/vendors/server
+pm2 start app.js --name yapi
+
+
+新服务器（海油）/usr/share/nginx/html/
+
+项目地址
+http://8.130.16.201:9000/lms/produce/work-order/detail/256         admin    Boya2023_1234     // 海油201
+http://8.130.26.88/board/login?redirect=%2F		// 公用地址
+http://192.168.1.6:9005/board/				// emos本地
+
+服务器
+192.168.1.6	root       boya2021
+8.130.26.88	
+
+
+vscode settings.json
+
+{
+    "files.autoSave": "off",
+    "eslint.validate": [
+        "javascript",
+        "javascriptreact",
+        "html",
+        "vue"
+    ],
+    "eslint.run": "onSave",
+    "eslint.codeActionsOnSave.mode": "all",
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    },
+    "window.zoomLevel": 2,
+    "explorer.compactFolders": false,
+    "editor.wordWrap": "on",
+    "editor.tabSize": 2,
+    "eslint.codeAction.showDocumentation": {
+        "enable": true
+    },
+    "editor.linkedEditing": true
+}
+
+
+{
+      "files.autoSave": "off",
+      "eslint.validate": [
+        "javascript",
+        "javascriptreact",
+        "vue-html",
+        "vue"
+      ],
+      "eslint.run": "onSave",
+    
+      "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+      },
+      "window.zoomLevel": 1,
+      "explorer.compactFolders": false,
+      "editor.wordWrap": "on",
+      "editor.tabSize": 2,
+      "eslint.codeAction.showDocumentation": {
+        "enable": true
+      },
+    "editor.linkedEditing": true,
+    "[vue]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "code-runner.runInTerminal": true
+}
+
+
+
+
+
+
+
+
